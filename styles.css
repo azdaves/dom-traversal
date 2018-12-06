@@ -1,0 +1,17 @@
+body {
+  font-size: 2rem;
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.todo {
+  list-style-type: none;
+}
+
+.todo__item {
+  border: 1px solid #ddd;
+  padding: 1rem;
+}
